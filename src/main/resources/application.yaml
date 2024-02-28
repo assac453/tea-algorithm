@@ -1,0 +1,10 @@
+file:
+  path:
+    input:
+      "src/main/resources/input.txt"
+    encrypt:
+      "src/main/resources/encrypt.txt"
+    decrypt:
+      "src/main/resources/decrypt.txt"
+    key:
+      "src/main/resources/key.txt"
